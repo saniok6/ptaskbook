@@ -1,0 +1,21 @@
+{
+  "name": "ptaskbook",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "jest",
+    "start": "node .",
+    "prestart": "tsc"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "@types/jest": "^25.2.3",
+    "ts-jest": "^26.1.0"
+  },
+  "devDependencies": {
+    "jest": "^26.0.1",
+    "typescript": "^3.9.5"
+  }
+}
